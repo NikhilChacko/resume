@@ -126,7 +126,9 @@ body{
 .sql-progress{
     width: 60%;
 }
-
+.dj-progress{
+    width: 35%;
+}
 .en-progress{
     width: 70%;
 }
@@ -136,6 +138,7 @@ body{
 .hd-progress{
     width: 40%;
 }
+
 
 
 
